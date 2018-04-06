@@ -1,2 +1,4 @@
-name: Bessant Lab
+title: Bessant Lab
+description: Bioinformatics, for proteomics and multi-omics.
+show_downloads: false
 theme: jekyll-theme-dinky
