@@ -1,12 +1,14 @@
-We devise and implement novel data analysis solutions for biomedical research, particularly when proteomics data is involved.
+#### About the Bessant Lab
 
-The lab is responsible for the [Galaxy Integrated Omics (GIO)](http://gio.sbcs.qmul.ac.uk) web-based platform for integrated analysis of transcriptomic and proteomic data, and [PITDB](http://pitdb.org) - a database of translated genomic elements identified from proteomics informed by transcriptomics (PIT) experiments.
+We devise and implement novel data analysis solutions for biomedical research, particularly when proteomics data is involved. The lab is based in the [School of Biological and Chemical Sciences](http://www.sbcs.qmul.ac.uk/) at [Queen Mary](http://www.qmul.ac.uk/), [University of London](https://london.ac.uk/).
+
+The lab is responsible for the [Galaxy Integrated Omics (GIO)](http://gio.sbcs.qmul.ac.uk) web-based platform for integrated analysis of transcriptomic and proteomic data, and [PITDB](http://pitdb.org) - a database of translated genomic elements identified from proteomics informed by transcriptomics (PIT) experiments. We also produced [Classyfire](https://cran.r-project.org/web/packages/classyfire/index.html), an R package for performing well validated machine learning experiments.  
 
 #### Selected journal articles
 
 Saha, S., Matthews, D.A., Bessant, C. High throughput discovery of protein variants using proteomics informed by transcriptomics. Nucleic Acids Research. In press.
 
-Pearce, O.M., Delaine-Smith, R.M., Maniati, E., Nichols, S., Wang, J., Böhm, S., ... & Balkwill, F.R. (2018). [Deconstruction of a metastatic tumor microenvironment reveals a common matrix response in human cancers] (http://cancerdiscovery.aacrjournals.org/content/8/3/304). Cancer Discovery, 8(3), 304-319.
+Pearce, O.M., Delaine-Smith, R.M., Maniati, E., Nichols, S., Wang, J., Böhm, S., ... & Balkwill, F.R. (2018). [Deconstruction of a metastatic tumor microenvironment reveals a common matrix response in human cancers](http://cancerdiscovery.aacrjournals.org/content/8/3/304). Cancer Discovery, 8(3), 304-319.
 
 Saha, S., Chatzimichali, E.A., Matthews, D.A., Bessant, C. (2017). [PITDB: a database of translated genomic elements](https://academic.oup.com/nar/article/46/D1/D1223/4372529). Nucleic Acids Research 46.D1, D1223-D1228.
 
@@ -26,4 +28,3 @@ Evans, V. C., Barker, G., Heesom, K. J., Fan, J., Bessant, C., & Matthews, D. A.
 
 [c.bessant@qmul.ac.uk](mailto:c.bessant@qmul.ac.uk)
 
-The lab is based in the [School of Biological and Chemical Sciences](http://www.sbcs.qmul.ac.uk/) at [Queen Mary](http://www.qmul.ac.uk/), [University of London](https://london.ac.uk/).
