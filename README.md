@@ -2,10 +2,28 @@ We devise and implement novel data analysis solutions for biomedical research, p
 
 The lab is responsible for the [Galaxy Integrated Omics (GIO)](http://gio.sbcs.qmul.ac.uk) web-based platform for integrated analysis of transcriptomic and proteomic data, and [PITDB](http://pitdb.org) - a database of translated genomic elements identified from proteomics informed by transcriptomics (PIT) experiments.
 
-#### Collaborations
+#### Selected journal articles
 
-Coming soon.
+Saha, S., Matthews, D.A., Bessant, C. High throughput discovery of protein variants using proteomics informed by transcriptomics. Nucleic Acids Research. In press.
 
-#### Recent papers
+Pearce, O.M., Delaine-Smith, R.M., Maniati, E., Nichols, S., Wang, J., Böhm, S., ... & Balkwill, F.R. (2018). [Deconstruction of a metastatic tumor microenvironment reveals a common matrix response in human cancers] (http://cancerdiscovery.aacrjournals.org/content/8/3/304). Cancer Discovery, 8(3), 304-319.
 
-Coming soon.
+Saha, S., Chatzimichali, E.A., Matthews, D.A., Bessant, C. (2017). [PITDB: a database of translated genomic elements](https://academic.oup.com/nar/article/46/D1/D1223/4372529). Nucleic Acids Research 46.D1, D1223-D1228.
+
+Chatzimichali, E.A., & Bessant, C. (2016). [Novel application of heuristic optimisation enables the creation and thorough evaluation of robust support vector machine ensembles for machine learning applications](https://link.springer.com/article/10.1007/s11306-015-0894-4). Metabolomics, 12(1), 16.
+
+Fan, J., Saha, S., Barker, G., Heesom, K.J., Ghali, F., Jones, A.R., ... & Bessant, C. (2015). [Galaxy integrated omics: web-based standards-compliant workflows for proteomics informed by transcriptomics](http://www.mcponline.org/content/14/11/3087.short). Molecular & Cellular Proteomics, 14(11), 3087-3093.
+
+Evans, V. C., Barker, G., Heesom, K. J., Fan, J., Bessant, C., & Matthews, D. A. (2012). [De novo derivation of proteomes from transcriptomes for transcript and protein identification](https://www.nature.com/articles/nmeth.2227). Nature Methods, 9(12), 1207.
+
+#### Books
+
+[Proteome Informatics](http://pubs.rsc.org/en/content/ebook/978-1-78262-428-8) (Royal Society of Chemistry, 2016)
+
+[Building Bioinformatics Solutions](https://global.oup.com/academic/product/building-bioinformatics-solutions-9780199658565) (Oxford University Press, 2014)
+
+#### Contact
+
+[c.bessant@qmul.ac.uk](mailto:c.bessant@qmul.ac.uk)
+
+The lab is based in the [School of Biological and Chemical Sciences](http://www.sbcs.qmul.ac.uk/) at [Queen Mary](http://www.qmul.ac.uk/), [University of London](https://london.ac.uk/).
