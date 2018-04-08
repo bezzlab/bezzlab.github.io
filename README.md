@@ -4,7 +4,7 @@ We devise and implement novel data analysis solutions for biomedical research, p
 
 The lab is responsible for the [Galaxy Integrated Omics (GIO)](http://gio.sbcs.qmul.ac.uk) web-based platform for integrated analysis of transcriptomic and proteomic data, and [PITDB](http://pitdb.org) - a database of translated genomic elements identified from proteomics informed by transcriptomics (PIT) experiments. We also produced [Classyfire](https://cran.r-project.org/web/packages/classyfire/index.html), an R package for performing well validated machine learning experiments.  
 
-#### Selected journal articles
+#### Selected journal articles: Check these out for a flavour of our work
 
 Saha, S., Matthews, D.A., Bessant, C. High throughput discovery of protein variants using proteomics informed by transcriptomics. Nucleic Acids Research. In press.
 
@@ -23,6 +23,14 @@ Evans, V. C., Barker, G., Heesom, K. J., Fan, J., Bessant, C., & Matthews, D. A.
 [Proteome Informatics](http://pubs.rsc.org/en/content/ebook/978-1-78262-428-8) (Royal Society of Chemistry, 2016)
 
 [Building Bioinformatics Solutions](https://global.oup.com/academic/product/building-bioinformatics-solutions-9780199658565) (Oxford University Press, 2014)
+
+#### Join us
+
+*As a postdoc:* We welcome equiries from postdocs seeking to apply for [Marie Skłodowska-Curie Action Individual Fellowships](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en). Please email Conrad Bessant [(c.bessant@qmul.ac.uk)](mailto:c.bessant@qmul.ac.uk) with your CV, inluding MSCA in the subject line.
+
+*As a PhD student:* We currently have a funded PhD studentship available, for a candidate from the UK or other EU country. For more information, contact Conrad Bessant [(c.bessant@qmul.ac.uk)](mailto:c.bessant@qmul.ac.uk).
+
+*An an MSc students:* Our [MSc Bioinformatics programme](https://qmul.ac.uk/msc-bioinfo) is one of the most popular in Europe. Apply now for late September start.
 
 #### Contact
 
