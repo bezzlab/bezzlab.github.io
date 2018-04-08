@@ -6,17 +6,17 @@ The lab is responsible for the [Galaxy Integrated Omics (GIO)](http://gio.sbcs.q
 
 #### Selected journal articles: Check these out for a flavour of our work
 
-Saha, S., Matthews, D.A., Bessant, C. (2018). High throughput discovery of protein variants using proteomics informed by transcriptomics. Nucleic Acids Research. In press.
+Saha, S., Matthews, D.A., Bessant, C. (2018). High throughput discovery of protein variants using proteomics informed by transcriptomics. *Nucleic Acids Research*. In press.
 
-Pearce, O.M., Delaine-Smith, R.M., Maniati, E., Nichols, S., Wang, J., Böhm, S., ... & Balkwill, F.R. (2018). [Deconstruction of a metastatic tumor microenvironment reveals a common matrix response in human cancers](http://cancerdiscovery.aacrjournals.org/content/8/3/304). Cancer Discovery, 8(3), 304-319.
+Pearce, O.M., Delaine-Smith, R.M., Maniati, E., Nichols, S., Wang, J., Böhm, S., ... & Balkwill, F.R. (2018). [Deconstruction of a metastatic tumor microenvironment reveals a common matrix response in human cancers](http://cancerdiscovery.aacrjournals.org/content/8/3/304). *Cancer Discovery*, 8(3), 304-319.
 
-Saha, S., Chatzimichali, E.A., Matthews, D.A., Bessant, C. (2017). [PITDB: a database of translated genomic elements](https://academic.oup.com/nar/article/46/D1/D1223/4372529). Nucleic Acids Research 46.D1, D1223-D1228.
+Saha, S., Chatzimichali, E.A., Matthews, D.A., Bessant, C. (2017). [PITDB: a database of translated genomic elements](https://academic.oup.com/nar/article/46/D1/D1223/4372529). *Nucleic Acids Research* 46.D1, D1223-D1228.
 
-Chatzimichali, E.A., & Bessant, C. (2016). [Novel application of heuristic optimisation enables the creation and thorough evaluation of robust support vector machine ensembles for machine learning applications](https://link.springer.com/article/10.1007/s11306-015-0894-4). Metabolomics, 12(1), 16.
+Chatzimichali, E.A., & Bessant, C. (2016). [Novel application of heuristic optimisation enables the creation and thorough evaluation of robust support vector machine ensembles for machine learning applications](https://link.springer.com/article/10.1007/s11306-015-0894-4). *Metabolomics*, 12(1), 16.
 
-Fan, J., Saha, S., Barker, G., Heesom, K.J., Ghali, F., Jones, A.R., ... & Bessant, C. (2015). [Galaxy integrated omics: web-based standards-compliant workflows for proteomics informed by transcriptomics](http://www.mcponline.org/content/14/11/3087.short). Molecular & Cellular Proteomics, 14(11), 3087-3093.
+Fan, J., Saha, S., Barker, G., Heesom, K.J., Ghali, F., Jones, A.R., ... & Bessant, C. (2015). [Galaxy integrated omics: web-based standards-compliant workflows for proteomics informed by transcriptomics](http://www.mcponline.org/content/14/11/3087.short). *Molecular & Cellular Proteomics*, 14(11), 3087-3093.
 
-Evans, V. C., Barker, G., Heesom, K. J., Fan, J., Bessant, C., & Matthews, D. A. (2012). [De novo derivation of proteomes from transcriptomes for transcript and protein identification](https://www.nature.com/articles/nmeth.2227). Nature Methods, 9(12), 1207.
+Evans, V. C., Barker, G., Heesom, K. J., Fan, J., Bessant, C., & Matthews, D. A. (2012). [De novo derivation of proteomes from transcriptomes for transcript and protein identification](https://www.nature.com/articles/nmeth.2227). *Nature Methods*, 9(12), 1207.
 
 #### Books
 
