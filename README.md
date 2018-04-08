@@ -4,7 +4,7 @@ We devise and implement novel data analysis solutions for biomedical research, p
 
 The lab is responsible for the [Galaxy Integrated Omics (GIO)](http://gio.sbcs.qmul.ac.uk) web-based platform for integrated analysis of transcriptomic and proteomic data, and [PITDB](http://pitdb.org) - a database of translated genomic elements identified from proteomics informed by transcriptomics (PIT) experiments. We also produced [Classyfire](https://cran.r-project.org/web/packages/classyfire/index.html), an R package for performing well validated machine learning experiments.  
 
-#### Selected journal articles: Check these out for a flavour of our work
+#### Selected journal articles: Check these out for a flavour of our research
 
 Saha, S., Matthews, D.A., Bessant, C. (2018). High throughput discovery of protein variants using proteomics informed by transcriptomics. *Nucleic Acids Research*. In press.
 
