@@ -6,7 +6,7 @@ The lab is responsible for the [Galaxy Integrated Omics (GIO)](http://gio.sbcs.q
 
 #### Selected journal articles: Check these out for a flavour of our work
 
-Saha, S., Matthews, D.A., Bessant, C. High throughput discovery of protein variants using proteomics informed by transcriptomics. Nucleic Acids Research. In press.
+Saha, S., Matthews, D.A., Bessant, C. (2018). High throughput discovery of protein variants using proteomics informed by transcriptomics. Nucleic Acids Research. In press.
 
 Pearce, O.M., Delaine-Smith, R.M., Maniati, E., Nichols, S., Wang, J., Böhm, S., ... & Balkwill, F.R. (2018). [Deconstruction of a metastatic tumor microenvironment reveals a common matrix response in human cancers](http://cancerdiscovery.aacrjournals.org/content/8/3/304). Cancer Discovery, 8(3), 304-319.
 
