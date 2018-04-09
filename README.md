@@ -34,5 +34,6 @@ Evans, V. C., Barker, G., Heesom, K. J., Fan, J., Bessant, C., & Matthews, D. A.
 
 #### Contact
 
-[c.bessant@qmul.ac.uk](mailto:c.bessant@qmul.ac.uk)
+Twitter: [@bezzlab](https://twitter.com/bezzlab)
 
+Email: [c.bessant@qmul.ac.uk](mailto:c.bessant@qmul.ac.uk)
