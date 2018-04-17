@@ -2,7 +2,7 @@
 
 We devise and implement novel data analysis solutions for biomedical research, particularly when proteomics data is involved. The lab is based in the [School of Biological and Chemical Sciences](http://www.sbcs.qmul.ac.uk/) at [Queen Mary](http://www.qmul.ac.uk/), [University of London](https://london.ac.uk/).
 
-The lab is responsible for the [Galaxy Integrated Omics (GIO)](http://gio.sbcs.qmul.ac.uk) web-based platform for integrated analysis of transcriptomic and proteomic data, and [PITDB](http://pitdb.org) - a database of translated genomic elements identified from proteomics informed by transcriptomics (PIT) experiments. We also produced [Classyfire](https://cran.r-project.org/web/packages/classyfire/index.html), an R package for performing well validated machine learning experiments.  
+The lab is responsible for the [Galaxy Integrated Omics (GIO)](http://gio.sbcs.qmul.ac.uk) web-based platform for integrated analysis of transcriptomic and proteomic data, and [PITDB](http://pitdb.org) - a database of translated genomic elements identified from proteomics informed by transcriptomics (PIT) experiments. We also produced [Classyfire](https://cran.r-project.org/web/packages/classyfire/index.html), an R package for performing robustly validated machine learning experiments.  
 
 #### Selected journal articles: Check these out for a flavour of our research
 
@@ -10,7 +10,7 @@ Saha, S., Matthews, D.A., Bessant, C. (2018). [High throughput discovery of prot
 
 Pearce, O.M., Delaine-Smith, R.M., Maniati, E., Nichols, S., Wang, J., Böhm, S., ... & Balkwill, F.R. (2018). [Deconstruction of a metastatic tumor microenvironment reveals a common matrix response in human cancers](http://cancerdiscovery.aacrjournals.org/content/8/3/304). *Cancer Discovery*, 8(3), 304-319.
 
-Saha, S., Chatzimichali, E.A., Matthews, D.A., Bessant, C. (2017). [PITDB: a database of translated genomic elements](https://academic.oup.com/nar/article/46/D1/D1223/4372529). *Nucleic Acids Research* 46.D1, D1223-D1228.
+Saha, S., Chatzimichali, E.A., Matthews, D.A., Bessant, C. (2018). [PITDB: a database of translated genomic elements](https://academic.oup.com/nar/article/46/D1/D1223/4372529). *Nucleic Acids Research* 46.D1, D1223-D1228.
 
 Chatzimichali, E.A., & Bessant, C. (2016). [Novel application of heuristic optimisation enables the creation and thorough evaluation of robust support vector machine ensembles for machine learning applications](https://link.springer.com/article/10.1007/s11306-015-0894-4). *Metabolomics*, 12(1), 16.
 
