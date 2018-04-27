@@ -1,6 +1,6 @@
 #### About the Bessant Lab
 
-We devise and implement novel data analysis solutions for biomedical research, particularly when proteomics data is involved. The lab is based in the [School of Biological and Chemical Sciences](http://www.sbcs.qmul.ac.uk/) at [Queen Mary](http://www.qmul.ac.uk/), [University of London](https://london.ac.uk/).
+We devise and implement novel data analysis solutions for biomedical research, particularly when proteomics data is involved. The lab is based in the [School of Biological and Chemical Sciences](http://www.sbcs.qmul.ac.uk/) at [Queen Mary](http://www.qmul.ac.uk/), [University of London](https://london.ac.uk/) and led by [Prof Conrad Bessant](http://www.sbcs.qmul.ac.uk/staff/conradbessant.html).
 
 The lab is responsible for the [Galaxy Integrated Omics (GIO)](http://gio.sbcs.qmul.ac.uk) web-based platform for integrated analysis of transcriptomic and proteomic data, and [PITDB](http://pitdb.org) - a database of translated genomic elements identified from proteomics informed by transcriptomics (PIT) experiments. We also produced [Classyfire](https://cran.r-project.org/web/packages/classyfire/index.html), an R package for performing robustly validated machine learning experiments.  
 
@@ -37,3 +37,6 @@ Evans, V. C., Barker, G., Heesom, K. J., Fan, J., Bessant, C., & Matthews, D. A.
 Twitter: [@bezzlab](https://twitter.com/bezzlab)
 
 Email: [c.bessant@qmul.ac.uk](mailto:c.bessant@qmul.ac.uk)
+
+Phone etc: See [Conrad's official QMUL profile page](http://www.sbcs.qmul.ac.uk/staff/conradbessant.html)
+
