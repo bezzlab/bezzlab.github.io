@@ -28,7 +28,7 @@ Evans, V. C., Barker, G., Heesom, K. J., Fan, J., Bessant, C., & Matthews, D. A.
 
 *As a postdoc:* We welcome enquiries from postdocs seeking to apply for [Marie Skłodowska-Curie Action Individual Fellowships](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en). Please email Conrad Bessant [(c.bessant@qmul.ac.uk)](mailto:c.bessant@qmul.ac.uk) with your CV, inluding MSCA in the subject line.
 
-*As a PhD student:* We currently have a funded PhD studentship available, for a candidate from the UK or other EU country. For more information [see the advert](https://www.findaphd.com/search/ProjectDetails.aspx?PJID=97045).
+*As a PhD student:* Funded PhD studentship opportunities are available occasionally, typically for candidates from the UK and other EU member states. We are also willing to consider applications from PhD students funded by scholarships, or other means of self-funding, from any country.
 
 *An an MSc student:* Our [MSc Bioinformatics programme](https://qmul.ac.uk/msc-bioinfo) is one of the most popular in Europe. Apply now for late September start.
 
