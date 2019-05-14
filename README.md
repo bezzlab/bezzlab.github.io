@@ -2,11 +2,11 @@
 
 We devise and implement novel data analysis solutions for biomedical research, particularly when proteomics data is involved. The lab is based in the [School of Biological and Chemical Sciences](http://www.sbcs.qmul.ac.uk/) at [Queen Mary](http://www.qmul.ac.uk/), [University of London](https://london.ac.uk/) and led by [Prof Conrad Bessant](http://www.sbcs.qmul.ac.uk/staff/conradbessant.html).
 
-The lab is responsible for the [Galaxy Integrated Omics (GIO)](http://gio.sbcs.qmul.ac.uk) web-based platform for integrated analysis of transcriptomic and proteomic data, and [PITDB](http://pitdb.org) - a database of translated genomic elements identified from proteomics informed by transcriptomics (PIT) experiments. We also produced [Classyfire](https://cran.r-project.org/web/packages/classyfire/index.html), an R package for performing robustly validated machine learning experiments.  
+The lab is responsible for the [Galaxy Integrated Omics (GIO)](http://gio.sbcs.qmul.ac.uk) web-based platform for integrated analysis of transcriptomic and proteomic data, and [PITDB](http://pitdb.org) - a database of translated genomic elements identified from proteomics informed by transcriptomics (PIT) experiments. We also produced [Classyfire](https://cran.r-project.org/src/contrib/Archive/classyfire/), an R package for performing robustly validated machine learning experiments.  
 
 #### Selected journal articles: Check these out for a flavour of our research
 
-Saha, S., Matthews, D.A., Bessant, C. (2018). [High throughput discovery of protein variants using proteomics informed by transcriptomics](https://dx.doi.org/10.1093/nar/gky295). *Nucleic Acids Research*. In press.
+Saha, S., Matthews, D.A., Bessant, C. (2018). [High throughput discovery of protein variants using proteomics informed by transcriptomics](https://dx.doi.org/10.1093/nar/gky295). *Nucleic Acids Research*, 46(10), 4893–4902.
 
 Pearce, O.M., Delaine-Smith, R.M., Maniati, E., Nichols, S., Wang, J., Böhm, S., ... & Balkwill, F.R. (2018). [Deconstruction of a metastatic tumor microenvironment reveals a common matrix response in human cancers](http://cancerdiscovery.aacrjournals.org/content/8/3/304). *Cancer Discovery*, 8(3), 304-319.
 
