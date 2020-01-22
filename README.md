@@ -6,6 +6,10 @@ The lab is responsible for the [Galaxy Integrated Omics (GIO)](http://gio.sbcs.q
 
 #### Selected journal articles: Check these out for a flavour of our research
 
+Hijazi, M., Smith, R., Rajeeve, V., Bessant, C. & Cutillas, P.R. (2020). [Reconstructing kinase network topologies from phosphoproteomics data reveals cancer-associated rewiring])(https://dx.doi.org/10.1038/s41587-019-0391-9). *Nature Biotechnology*.
+
+Saha, S., Matthews, D.A., Bessant, C. (2018). [High throughput discovery of protein variants using proteomics informed by transcriptomics](https://dx.doi.org/10.1093/nar/gky295). *Nucleic Acids Research*, 46(10), 4893–4902.
+
 Saha, S., Matthews, D.A., Bessant, C. (2018). [High throughput discovery of protein variants using proteomics informed by transcriptomics](https://dx.doi.org/10.1093/nar/gky295). *Nucleic Acids Research*, 46(10), 4893–4902.
 
 Pearce, O.M., Delaine-Smith, R.M., Maniati, E., Nichols, S., Wang, J., Böhm, S., ... & Balkwill, F.R. (2018). [Deconstruction of a metastatic tumor microenvironment reveals a common matrix response in human cancers](http://cancerdiscovery.aacrjournals.org/content/8/3/304). *Cancer Discovery*, 8(3), 304-319.
@@ -28,13 +32,11 @@ Evans, V. C., Barker, G., Heesom, K. J., Fan, J., Bessant, C., & Matthews, D. A.
 
 *As a postdoc:* We welcome enquiries from postdocs seeking to apply for [Marie Skłodowska-Curie Action Individual Fellowships](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en). Please email Conrad Bessant [(c.bessant@qmul.ac.uk)](mailto:c.bessant@qmul.ac.uk) with your CV, inluding MSCA in the subject line.
 
-*As a PhD student:* Funded PhD studentship opportunities are available occasionally, typically for candidates from the UK and other EU member states. We are also willing to consider applications from PhD students funded by scholarships, or other means of self-funding, from any country.
+*As a PhD student:* Funded PhD studentship opportunities are available occasionally, typically for candidates from the UK and other EU member states. These will be advertised widely. We are also willing to consider applications from PhD students funded by scholarships, or other means of self-funding, from any country.
 
 *An an MSc student:* Our [MSc Bioinformatics programme](https://qmul.ac.uk/msc-bioinfo) is one of the most popular in Europe. Apply now for late September start.
 
 #### Contact
-
-Twitter: [@bezzlab](https://twitter.com/bezzlab)
 
 Email: [c.bessant@qmul.ac.uk](mailto:c.bessant@qmul.ac.uk)
 
