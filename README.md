@@ -6,7 +6,7 @@ The lab is responsible for the [Galaxy Integrated Omics (GIO)](http://gio.sbcs.q
 
 #### Selected journal articles: Check these out for a flavour of our research
 
-Hijazi, M., Smith, R., Rajeeve, V., Bessant, C. & Cutillas, P.R. (2020). [Reconstructing kinase network topologies from phosphoproteomics data reveals cancer-associated rewiring])(https://dx.doi.org/10.1038/s41587-019-0391-9). *Nature Biotechnology*.
+Hijazi, M., Smith, R., Rajeeve, V., Bessant, C. & Cutillas, P.R. (2020). [Reconstructing kinase network topologies from phosphoproteomics data reveals cancer-associated rewiring](https://dx.doi.org/10.1038/s41587-019-0391-9). *Nature Biotechnology*.
 
 Saha, S., Matthews, D.A., Bessant, C. (2018). [High throughput discovery of protein variants using proteomics informed by transcriptomics](https://dx.doi.org/10.1093/nar/gky295). *Nucleic Acids Research*, 46(10), 4893–4902.
 
