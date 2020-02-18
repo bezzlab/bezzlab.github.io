@@ -10,8 +10,6 @@ Hijazi, M., Smith, R., Rajeeve, V., Bessant, C. & Cutillas, P.R. (2020). [Recons
 
 Saha, S., Matthews, D.A., Bessant, C. (2018). [High throughput discovery of protein variants using proteomics informed by transcriptomics](https://dx.doi.org/10.1093/nar/gky295). *Nucleic Acids Research*, 46(10), 4893–4902.
 
-Saha, S., Matthews, D.A., Bessant, C. (2018). [High throughput discovery of protein variants using proteomics informed by transcriptomics](https://dx.doi.org/10.1093/nar/gky295). *Nucleic Acids Research*, 46(10), 4893–4902.
-
 Pearce, O.M., Delaine-Smith, R.M., Maniati, E., Nichols, S., Wang, J., Böhm, S., ... & Balkwill, F.R. (2018). [Deconstruction of a metastatic tumor microenvironment reveals a common matrix response in human cancers](http://cancerdiscovery.aacrjournals.org/content/8/3/304). *Cancer Discovery*, 8(3), 304-319.
 
 Saha, S., Chatzimichali, E.A., Matthews, D.A., Bessant, C. (2018). [PITDB: a database of translated genomic elements](https://academic.oup.com/nar/article/46/D1/D1223/4372529). *Nucleic Acids Research* 46.D1, D1223-D1228.
