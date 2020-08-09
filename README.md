@@ -2,11 +2,11 @@
 
 We devise and implement novel data analysis solutions for biomedical research, particularly when proteomics data is involved. The lab is based in the [School of Biological and Chemical Sciences](http://www.sbcs.qmul.ac.uk/) at [Queen Mary](http://www.qmul.ac.uk/), [University of London](https://london.ac.uk/) and led by [Prof Conrad Bessant](http://www.sbcs.qmul.ac.uk/staff/conradbessant.html).
 
-The lab is responsible for the [Galaxy Integrated Omics (GIO)](http://gio.sbcs.qmul.ac.uk) web-based platform for integrated analysis of transcriptomic and proteomic data, and [PITDB](http://pitdb.org) - a database of translated genomic elements identified from proteomics informed by transcriptomics (PIT) experiments. We also produced [Classyfire](https://cran.r-project.org/src/contrib/Archive/classyfire/), an R package for performing robustly validated machine learning experiments.  
+The lab is responsible for the [Galaxy Integrated Omics (GIO)](http://gio.sbcs.qmul.ac.uk) web-based platform for integrated analysis of transcriptomic and proteomic data, [PITDB](https://pitdb.sbcs.qmul.ac.uk/) - a database of translated genomic elements identified from proteomics informed by transcriptomics (PIT) experiments, and cell signaling website [ChemPhoPro](http://chemphopro.org/). We also produced [Classyfire](https://cran.r-project.org/src/contrib/Archive/classyfire/), an R package for performing robustly validated machine learning experiments.  
 
 #### Selected journal articles: Check these out for a flavour of our research
 
-Hijazi, M., Smith, R., Rajeeve, V., Bessant, C. & Cutillas, P.R. (2020). [Reconstructing kinase network topologies from phosphoproteomics data reveals cancer-associated rewiring](https://dx.doi.org/10.1038/s41587-019-0391-9). *Nature Biotechnology*.
+Hijazi, M., Smith, R., Rajeeve, V., Bessant, C. & Cutillas, P.R. (2020). [Reconstructing kinase network topologies from phosphoproteomics data reveals cancer-associated rewiring](https://dx.doi.org/10.1038/s41587-019-0391-9). *Nature Biotechnology*, 38(4), 493–502.
 
 Saha, S., Matthews, D.A., Bessant, C. (2018). [High throughput discovery of protein variants using proteomics informed by transcriptomics](https://dx.doi.org/10.1093/nar/gky295). *Nucleic Acids Research*, 46(10), 4893–4902.
 
@@ -30,9 +30,9 @@ Evans, V. C., Barker, G., Heesom, K. J., Fan, J., Bessant, C., & Matthews, D. A.
 
 *As a postdoc:* We welcome enquiries from postdocs seeking to apply for [Marie Skłodowska-Curie Action Individual Fellowships](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en). Please email Conrad Bessant [(c.bessant@qmul.ac.uk)](mailto:c.bessant@qmul.ac.uk) with your CV, inluding MSCA in the subject line.
 
-*As a PhD student:* Funded PhD studentship opportunities are available occasionally, typically for candidates from the UK and EU member states. These will be advertised widely, e.g. on [findaphd.com](https://www.findaphd.com/phds/?Keywords=Bessant). We are also willing to consider applications from PhD students funded by scholarships, or other means of self-funding, from any country.
+*As a PhD student:* Funded PhD studentship opportunities are available occasionally, typically for candidates from the UK and EU member states. These will be advertised widely, e.g. on [findaphd.com](https://www.findaphd.com/phds/?Keywords=Bessant). We are also willing to consider applications from well qualified graduates funded by scholarships, or other means of self-funding, from any country.
 
-*An an MSc student:* Our [MSc Bioinformatics programme](https://qmul.ac.uk/msc-bioinfo) is one of the most popular in Europe. Apply now for late September start.
+*As an MSc student:* Our [MSc Bioinformatics programme](https://qmul.ac.uk/msc-bioinfo) is one of the most popular in Europe. Apply now for late September start.
 
 #### Contact
 
