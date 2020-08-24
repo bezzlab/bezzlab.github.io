@@ -6,6 +6,8 @@ The lab is responsible for the [Galaxy Integrated Omics (GIO)](http://gio.sbcs.q
 
 #### Selected journal articles: Check these out for a flavour of our research
 
+Gadaleta, E., Fourgoux, P., Pirró, S., Thorn, G.J., Nelan, R., Ironside, A., Rajeeve, V., Cutillas, P.R., Lobley, A.E., Wang, J., Gea, E., Ross-Adams, H., Bessant, C., Lemoine, N.R., Jones, L.J., & Chelala, C. (2020). [Characterization of four subtypes in morphologically normal tissue excised proximal and distal to breast cancer](https://doi.org/10.1038/s41523-020-00182-9). *npj Breast Cancer*, 6, article number: 38.
+
 Hijazi, M., Smith, R., Rajeeve, V., Bessant, C. & Cutillas, P.R. (2020). [Reconstructing kinase network topologies from phosphoproteomics data reveals cancer-associated rewiring](https://dx.doi.org/10.1038/s41587-019-0391-9). *Nature Biotechnology*, 38(4), 493–502.
 
 Saha, S., Matthews, D.A., Bessant, C. (2018). [High throughput discovery of protein variants using proteomics informed by transcriptomics](https://dx.doi.org/10.1093/nar/gky295). *Nucleic Acids Research*, 46(10), 4893–4902.
