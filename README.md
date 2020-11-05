@@ -32,7 +32,7 @@ Evans, V. C., Barker, G., Heesom, K. J., Fan, J., Bessant, C., & Matthews, D. A.
 
 #### Join us
 
-*As a postdoc:* We welcome enquiries from postdocs interested in working with us to secure funding to join our lab. A summary of currently available funding schemes can be found [by clicking here](https://www.qmul.ac.uk/sbcs/research/postdoctoral_fellowships/). Any enquiries regarding this should be emailed  Conrad Bessant [(c.bessant@qmul.ac.uk)](mailto:c.bessant@qmul.ac.uk) with your CV, including "PDRA" in the subject line.
+*As a postdoc:* We welcome enquiries from postdocs interested in applying for funding to join our lab. A summary of currently available funding schemes can be found [by clicking here](https://www.qmul.ac.uk/sbcs/research/postdoctoral_fellowships/). Any enquiries regarding this should be emailed  Conrad Bessant [(c.bessant@qmul.ac.uk)](mailto:c.bessant@qmul.ac.uk) with your CV, including "PDRA" in the subject line.
 
 *As a PhD student:* Funded PhD studentship opportunities are available occasionally, typically for candidates from the UK and EU member states. These will be advertised widely, e.g. on [findaphd.com](https://www.findaphd.com/phds/?Keywords=Bessant). We are also willing to consider applications from well qualified graduates funded by scholarships, or other means of self-funding, from any country.
 
