@@ -40,6 +40,6 @@ Evans, V. C., Barker, G., Heesom, K. J., Fan, J., Bessant, C., & Matthews, D. A.
 #### Contact
 
 Email: [c.bessant@qmul.ac.uk](mailto:c.bessant@qmul.ac.uk)
-To schedule a call with Conrad, [click here](https://calendly.com/bessant/15min){:target="_blank"}.
+To schedule a call with Conrad, [click here](https://calendly.com/bessant/15min).
 For other details see [Conrad's official QMUL profile page](http://www.sbcs.qmul.ac.uk/staff/conradbessant.html)
 
