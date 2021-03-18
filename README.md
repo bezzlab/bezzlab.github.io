@@ -27,7 +27,6 @@ Evans, V. C., Barker, G., Heesom, K. J., Fan, J., Bessant, C., & Matthews, D. A.
 #### Books
 
 [Proteome Informatics](http://pubs.rsc.org/en/content/ebook/978-1-78262-428-8) (Royal Society of Chemistry, 2016)
-
 [Building Bioinformatics Solutions](https://global.oup.com/academic/product/building-bioinformatics-solutions-9780199658565) (Oxford University Press, 2014)
 
 #### Join us
@@ -41,8 +40,6 @@ Evans, V. C., Barker, G., Heesom, K. J., Fan, J., Bessant, C., & Matthews, D. A.
 #### Contact
 
 Email: [c.bessant@qmul.ac.uk](mailto:c.bessant@qmul.ac.uk)
-
-To schedule a call with Conrad, [click here](https://calendly.com/bessant/15min).
-
+To schedule a call with Conrad, [click here](https://calendly.com/bessant/15min){:target="_blank"}.
 For other details see [Conrad's official QMUL profile page](http://www.sbcs.qmul.ac.uk/staff/conradbessant.html)
 
