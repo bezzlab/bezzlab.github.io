@@ -1,8 +1,6 @@
 #### About the Bessant Lab
 
-We devise and implement novel data analysis solutions for biomedical research, particularly when proteomics data is involved. The lab is based in the [School of Biological and Chemical Sciences](http://www.sbcs.qmul.ac.uk/) at [Queen Mary](http://www.qmul.ac.uk/), [University of London](https://london.ac.uk/) and led by [Prof Conrad Bessant](https://www.linkedin.com/in/conradbessant). We are also affiliated with [The Alan Turing Institute](https://www.turing.ac.uk/).
-
-The lab is responsible for the [Galaxy Integrated Omics (GIO)](http://gio.sbcs.qmul.ac.uk) web-based platform for integrated analysis of transcriptomic and proteomic data, [PITDB](https://pitdb.sbcs.qmul.ac.uk/) - a database of translated genomic elements identified from proteomics informed by transcriptomics (PIT) experiments, and cell signaling website [ChemPhoPro](http://chemphopro.org/). We also produced [Classyfire](https://cran.r-project.org/src/contrib/Archive/classyfire/), an R package for performing robustly validated machine learning experiments.  
+We devise and implement novel data analysis solutions for biomedical research, particularly when proteomics data is involved. The lab is based in the [Digitial Environment Research Institute](https://www.qmul.ac.uk/deri/) at [Queen Mary](http://www.qmul.ac.uk/), [University of London](https://london.ac.uk/) and led by [Prof Conrad Bessant](https://www.linkedin.com/in/conradbessant). We are also affiliated with Queen Mary's [School of Biological and Chemical Sciences](http://www.sbcs.qmul.ac.uk/) and the [The Alan Turing Institute](https://www.turing.ac.uk/).
 
 #### Selected journal articles: Check these out for a flavour of our research
 
