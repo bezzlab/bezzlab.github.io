@@ -14,7 +14,7 @@ We devise and implement novel data science and AI solutions for biomedical resea
 
 Byrom, B., Bessant, C., Smeraldi, F., Abdollahyan, M., Bridges, Y., Chowdhury, M. and Tahsin, A., 2023. [Deriving meaningful aspects of health related to physical activity in chronic disease: concept elicitation using machine-learning-assisted coding of online patient conversations](https://www.valueinhealthjournal.com/article/S1098-3015(23)00050-5/fulltext). *Value in Health*.
 
-Waller, K.J., Saihi, H., Li, W., Brindley, J.H., De Jong. A., Syn, W., Bessant, C., Alazawi1. W., 2023 [Single-cell phenotypes of peripheral blood immune cells in early and late stages of non-alcoholic fatty liver disease](https://www.e-cmh.org/journal/view.php?doi=10.3350/cmh.2022.0205). *Clinical and Molecular Hepatology*.
+Waller, K.J., Saihi, H., Li, W., Brindley, J.H., De Jong. A., Syn, W., Bessant, C., Alazawi, W., 2023 [Single-cell phenotypes of peripheral blood immune cells in early and late stages of non-alcoholic fatty liver disease](https://www.e-cmh.org/journal/view.php?doi=10.3350/cmh.2022.0205). *Clinical and Molecular Hepatology*.
 
 Gomez, E.A., Colas, R.A., Souza, P.R., Hands, R., Lewis, M.J., Bessant, C., Pitzalis, C. and Dalli, J., 2020. [Blood pro-resolving mediators are linked with synovial pathology and are predictive of DMARD responsiveness in rheumatoid arthritis](https://www.nature.com/articles/s41467-020-19176-z). *Nature Communications*, 11(1), pp.1-13.
 
