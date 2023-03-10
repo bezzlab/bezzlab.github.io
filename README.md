@@ -1,14 +1,16 @@
 #### About the Bessant Lab
 
-We devise and implement novel data science and AI solutions for biomedical research, particularly when proteomics data is involved. The lab is based in the [Digitial Environment Research Institute](https://www.qmul.ac.uk/deri/) at [Queen Mary](http://www.qmul.ac.uk/), [University of London](https://london.ac.uk/) and led by [Prof Conrad Bessant](https://www.linkedin.com/in/conradbessant). We are also affiliated with Queen Mary's [School of Biological and Chemical Sciences](http://www.sbcs.qmul.ac.uk/) and the [The Alan Turing Institute](https://www.turing.ac.uk/).
+We devise and implement novel data science and AI solutions for biomedical research, particularly when proteomics data is involved. The lab is based in the [Digital Environment Research Institute](https://www.qmul.ac.uk/deri/) at [Queen Mary](http://www.qmul.ac.uk/), [University of London](https://london.ac.uk/) and led by [Prof Conrad Bessant](https://www.linkedin.com/in/conradbessant). We are also affiliated with Queen Mary's [School of Biological and Chemical Sciences](http://www.sbcs.qmul.ac.uk/) and the [The Alan Turing Institute](https://www.turing.ac.uk/).
 
 #### Join us
 
-*As a postdoc:* We welcome enquiries from postdocs interested in applying for funding to join our lab. A summary of currently available funding schemes can be found [by clicking here](https://www.qmul.ac.uk/sbcs/research/postdoctoral_fellowships/). Any enquiries regarding this should be emailed  Conrad Bessant [(c.bessant@qmul.ac.uk)](mailto:c.bessant@qmul.ac.uk) with your CV, **including "PDRA" in the subject line**.
+*As a postdoc:* We welcome enquiries from postdocs interested in applying for funding to join our lab. A summary of currently available funding schemes can be found [by clicking here](https://www.qmul.ac.uk/sbcs/research/postdoctoral_fellowships/). Any enquiries regarding this should be emailed to Conrad Bessant [(c.bessant@qmul.ac.uk)](mailto:c.bessant@qmul.ac.uk) with your CV, **including "PDRA" in the subject line**.
 
 *As a PhD student:* We host PhD students from the following UK-based doctoral training programmes: [LIDo](https://www.lido-dtp.ac.uk/), [AIDD](https://www.qmul.ac.uk/deri/ukri-aidd-doctoral-training-programme/) and [HDiP](https://www.qmul.ac.uk/wiph/study-with-us/postgraduate-research/wellcome-trust-phd-programme-in-science/). Other funded PhD studentship opportunities are available occasionally, typically for candidates from the UK. These will be advertised widely, e.g. on [findaphd.com](https://www.findaphd.com/phds/?Keywords=Bessant). We are also willing to consider applications from exceptional graduates funded by scholarships, or other means of self-funding, from any country.
 
 *As an MSc student:* Our [MSc Bioinformatics programme](https://qmul.ac.uk/msc-bioinfo) is one of the most popular in Europe. Apply now for late September start.
+
+Sadly, we do not have the capacity to host interns.
 
 #### Selected journal articles: Check these out for a flavour of our research
 
