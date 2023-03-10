@@ -2,9 +2,17 @@
 
 We devise and implement novel data science and AI solutions for biomedical research, particularly when proteomics data is involved. The lab is based in the [Digitial Environment Research Institute](https://www.qmul.ac.uk/deri/) at [Queen Mary](http://www.qmul.ac.uk/), [University of London](https://london.ac.uk/) and led by [Prof Conrad Bessant](https://www.linkedin.com/in/conradbessant). We are also affiliated with Queen Mary's [School of Biological and Chemical Sciences](http://www.sbcs.qmul.ac.uk/) and the [The Alan Turing Institute](https://www.turing.ac.uk/).
 
+#### Join us
+
+*As a postdoc:* We welcome enquiries from postdocs interested in applying for funding to join our lab. A summary of currently available funding schemes can be found [by clicking here](https://www.qmul.ac.uk/sbcs/research/postdoctoral_fellowships/). Any enquiries regarding this should be emailed  Conrad Bessant [(c.bessant@qmul.ac.uk)](mailto:c.bessant@qmul.ac.uk) with your CV, **including "PDRA" in the subject line**.
+
+*As a PhD student:* We host PhD students from the following UK-based doctoral training programmes: [LIDo](https://www.lido-dtp.ac.uk/), [AIDD](https://www.qmul.ac.uk/deri/ukri-aidd-doctoral-training-programme/) and [HDiP](https://www.qmul.ac.uk/wiph/study-with-us/postgraduate-research/wellcome-trust-phd-programme-in-science/). Other funded PhD studentship opportunities are available occasionally, typically for candidates from the UK. These will be advertised widely, e.g. on [findaphd.com](https://www.findaphd.com/phds/?Keywords=Bessant). We are also willing to consider applications from exceptional graduates funded by scholarships, or other means of self-funding, from any country.
+
+*As an MSc student:* Our [MSc Bioinformatics programme](https://qmul.ac.uk/msc-bioinfo) is one of the most popular in Europe. Apply now for late September start.
+
 #### Selected journal articles: Check these out for a flavour of our research
 
-Byrom, B., Bessant, C., Smeraldi, F., Abdollahyan, M., Bridges, Y., Chowdhury, M. and Tahsin, A., 2023. [Deriving meaningful aspects of health related to physical activity in chronic disease: concept elicitation using machine-learning-assisted coding of online patient conversations] (https://www.valueinhealthjournal.com/article/S1098-3015(23)00050-5/fulltext). *Value in Health*.
+Byrom, B., Bessant, C., Smeraldi, F., Abdollahyan, M., Bridges, Y., Chowdhury, M. and Tahsin, A., 2023. [Deriving meaningful aspects of health related to physical activity in chronic disease: concept elicitation using machine-learning-assisted coding of online patient conversations](https://www.valueinhealthjournal.com/article/S1098-3015(23)00050-5/fulltext). *Value in Health*.
 
 Waller, K.J., Saihi, H., Li, W., Brindley, J.H., De Jong. A., Syn, W., Bessant, C., Alazawi1. W., 2023 [Single-cell phenotypes of peripheral blood immune cells in early and late stages of non-alcoholic fatty liver disease](https://www.e-cmh.org/journal/view.php?doi=10.3350/cmh.2022.0205). *Clinical and Molecular Hepatology*.
 
@@ -18,11 +26,7 @@ Saha, S., Matthews, D.A., Bessant, C. (2018). [High throughput discovery of prot
 
 Pearce, O.M., Delaine-Smith, R.M., Maniati, E., Nichols, S., Wang, J., Böhm, S., ... & Balkwill, F.R. (2018). [Deconstruction of a metastatic tumor microenvironment reveals a common matrix response in human cancers](http://cancerdiscovery.aacrjournals.org/content/8/3/304). *Cancer Discovery*, 8(3), 304-319.
 
-Saha, S., Chatzimichali, E.A., Matthews, D.A., Bessant, C. (2018). [PITDB: a database of translated genomic elements](https://academic.oup.com/nar/article/46/D1/D1223/4372529). *Nucleic Acids Research* 46.D1, D1223-D1228.
-
 Chatzimichali, E.A., & Bessant, C. (2016). [Novel application of heuristic optimisation enables the creation and thorough evaluation of robust support vector machine ensembles for machine learning applications](https://link.springer.com/article/10.1007/s11306-015-0894-4). *Metabolomics*, 12(1), 16.
-
-Fan, J., Saha, S., Barker, G., Heesom, K.J., Ghali, F., Jones, A.R., ... & Bessant, C. (2015). [Galaxy integrated omics: web-based standards-compliant workflows for proteomics informed by transcriptomics](http://www.mcponline.org/content/14/11/3087.short). *Molecular & Cellular Proteomics*, 14(11), 3087-3093.
 
 Evans, V. C., Barker, G., Heesom, K. J., Fan, J., Bessant, C., & Matthews, D. A. (2012). [De novo derivation of proteomes from transcriptomes for transcript and protein identification](https://www.nature.com/articles/nmeth.2227). *Nature Methods*, 9(12), 1207.
 
@@ -31,14 +35,6 @@ Evans, V. C., Barker, G., Heesom, K. J., Fan, J., Bessant, C., & Matthews, D. A.
 [Proteome Informatics](http://pubs.rsc.org/en/content/ebook/978-1-78262-428-8) (Royal Society of Chemistry, 2016)
 
 [Building Bioinformatics Solutions](https://global.oup.com/academic/product/building-bioinformatics-solutions-9780199658565) (Oxford University Press, 2014)
-
-#### Join us
-
-*As a postdoc:* We welcome enquiries from postdocs interested in applying for funding to join our lab. A summary of currently available funding schemes can be found [by clicking here](https://www.qmul.ac.uk/sbcs/research/postdoctoral_fellowships/). Any enquiries regarding this should be emailed  Conrad Bessant [(c.bessant@qmul.ac.uk)](mailto:c.bessant@qmul.ac.uk) with your CV, **including "PDRA" in the subject line**.
-
-*As a PhD student:* We host PhD students from the following UK-based doctoral training programmes: [LIDo](https://www.lido-dtp.ac.uk/), [AIDD](https://www.qmul.ac.uk/deri/ukri-aidd-doctoral-training-programme/) and [HDiP](https://www.qmul.ac.uk/wiph/study-with-us/postgraduate-research/wellcome-trust-phd-programme-in-science/). Other funded PhD studentship opportunities are available occasionally, typically for candidates from the UK. These will be advertised widely, e.g. on [findaphd.com](https://www.findaphd.com/phds/?Keywords=Bessant). We are also willing to consider applications from exceptional graduates funded by scholarships, or other means of self-funding, from any country.
-
-*As an MSc student:* Our [MSc Bioinformatics programme](https://qmul.ac.uk/msc-bioinfo) is one of the most popular in Europe. Apply now for late September start.
 
 #### Contact
 
