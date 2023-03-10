@@ -1,8 +1,12 @@
 #### About the Bessant Lab
 
-We devise and implement novel data analysis solutions for biomedical research, particularly when proteomics data is involved. The lab is based in the [Digitial Environment Research Institute](https://www.qmul.ac.uk/deri/) at [Queen Mary](http://www.qmul.ac.uk/), [University of London](https://london.ac.uk/) and led by [Prof Conrad Bessant](https://www.linkedin.com/in/conradbessant). We are also affiliated with Queen Mary's [School of Biological and Chemical Sciences](http://www.sbcs.qmul.ac.uk/) and the [The Alan Turing Institute](https://www.turing.ac.uk/).
+We devise and implement novel data science and AI solutions for biomedical research, particularly when proteomics data is involved. The lab is based in the [Digitial Environment Research Institute](https://www.qmul.ac.uk/deri/) at [Queen Mary](http://www.qmul.ac.uk/), [University of London](https://london.ac.uk/) and led by [Prof Conrad Bessant](https://www.linkedin.com/in/conradbessant). We are also affiliated with Queen Mary's [School of Biological and Chemical Sciences](http://www.sbcs.qmul.ac.uk/) and the [The Alan Turing Institute](https://www.turing.ac.uk/).
 
 #### Selected journal articles: Check these out for a flavour of our research
+
+Byrom, B., Bessant, C., Smeraldi, F., Abdollahyan, M., Bridges, Y., Chowdhury, M. and Tahsin, A., 2023. [Deriving meaningful aspects of health related to physical activity in chronic disease: concept elicitation using machine-learning-assisted coding of online patient conversations] (https://www.valueinhealthjournal.com/article/S1098-3015(23)00050-5/fulltext). *Value in Health*.
+
+Waller, K.J., Saihi, H., Li, W., Brindley, J.H., De Jong. A., Syn, W., Bessant, C., Alazawi1. W., 2023 [Single-cell phenotypes of peripheral blood immune cells in early and late stages of non-alcoholic fatty liver disease](https://www.e-cmh.org/journal/view.php?doi=10.3350/cmh.2022.0205). *Clinical and Molecular Hepatology*.
 
 Gomez, E.A., Colas, R.A., Souza, P.R., Hands, R., Lewis, M.J., Bessant, C., Pitzalis, C. and Dalli, J., 2020. [Blood pro-resolving mediators are linked with synovial pathology and are predictive of DMARD responsiveness in rheumatoid arthritis](https://www.nature.com/articles/s41467-020-19176-z). *Nature Communications*, 11(1), pp.1-13.
 
@@ -30,9 +34,9 @@ Evans, V. C., Barker, G., Heesom, K. J., Fan, J., Bessant, C., & Matthews, D. A.
 
 #### Join us
 
-*As a postdoc:* We welcome enquiries from postdocs interested in applying for funding to join our lab. A summary of currently available funding schemes can be found [by clicking here](https://www.qmul.ac.uk/sbcs/research/postdoctoral_fellowships/). Any enquiries regarding this should be emailed  Conrad Bessant [(c.bessant@qmul.ac.uk)](mailto:c.bessant@qmul.ac.uk) with your CV, including "PDRA" in the subject line.
+*As a postdoc:* We welcome enquiries from postdocs interested in applying for funding to join our lab. A summary of currently available funding schemes can be found [by clicking here](https://www.qmul.ac.uk/sbcs/research/postdoctoral_fellowships/). Any enquiries regarding this should be emailed  Conrad Bessant [(c.bessant@qmul.ac.uk)](mailto:c.bessant@qmul.ac.uk) with your CV, **including "PDRA" in the subject line**.
 
-*As a PhD student:* Funded PhD studentship opportunities are available occasionally, typically for candidates from the UK and EU member states. These will be advertised widely, e.g. on [findaphd.com](https://www.findaphd.com/phds/?Keywords=Bessant). We are also willing to consider applications from well qualified graduates funded by scholarships, or other means of self-funding, from any country.
+*As a PhD student:* We host PhD students from the following UK-based doctoral training programmes: [LIDo](https://www.lido-dtp.ac.uk/), [AIDD](https://www.qmul.ac.uk/deri/ukri-aidd-doctoral-training-programme/) and [HDiP](https://www.qmul.ac.uk/wiph/study-with-us/postgraduate-research/wellcome-trust-phd-programme-in-science/). Other funded PhD studentship opportunities are available occasionally, typically for candidates from the UK. These will be advertised widely, e.g. on [findaphd.com](https://www.findaphd.com/phds/?Keywords=Bessant). We are also willing to consider applications from exceptional graduates funded by scholarships, or other means of self-funding, from any country.
 
 *As an MSc student:* Our [MSc Bioinformatics programme](https://qmul.ac.uk/msc-bioinfo) is one of the most popular in Europe. Apply now for late September start.
 
@@ -42,5 +46,5 @@ Email: [c.bessant@qmul.ac.uk](mailto:c.bessant@qmul.ac.uk)
 
 To schedule a call with Conrad, [click here](https://calendly.com/bessant).
 
-For other details see [Conrad's official QMUL profile page](http://www.sbcs.qmul.ac.uk/staff/conradbessant.html)
+For other details see [Conrad's official QMUL profile page](http://www.sbcs.qmul.ac.uk/staff/conradbessant.html).
 
