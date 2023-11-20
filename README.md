@@ -10,9 +10,11 @@ We devise and implement novel data science and AI solutions for biomedical resea
 
 *As an MSc student:* Our [MSc Bioinformatics programme](https://qmul.ac.uk/msc-bioinfo) is one of the most popular in Europe. Apply now for late September start.
 
-Sadly, we do not have the capacity to host interns.
+**Sadly, we do not have the capacity to host internships or work experience placements.**
 
 #### Selected journal articles: Check these out for a flavour of our research
+
+Saihi, H., Bessant, C. and Alazawi, W., 2023 [Automated and reproducible cell identification in mass cytometry using neural networks](https://doi.org/10.1093/bib/bbad392). *Briefings in Bioinformatics*
 
 Byrom, B., Bessant, C., Smeraldi, F., Abdollahyan, M., Bridges, Y., Chowdhury, M. and Tahsin, A., 2023. [Deriving meaningful aspects of health related to physical activity in chronic disease: concept elicitation using machine-learning-assisted coding of online patient conversations](https://www.valueinhealthjournal.com/article/S1098-3015(23)00050-5/fulltext). *Value in Health*.
 
