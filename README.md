@@ -4,7 +4,7 @@ We devise and implement novel data science and AI solutions for biomedical resea
 
 #### Join us
 
-We welcome graduates who are interested in developing data science approaches to tackle biomedical research questions.
+We are recruiting graduates who are interested in the interface between data science and biomedical research.
 
 *As a postdoc:* We welcome enquiries from postdocs interested in applying for funding to join our lab. A summary of currently available funding schemes can be found [by clicking here](https://www.qmul.ac.uk/sbcs/research/postdoctoral_fellowships/). Any enquiries regarding this should be emailed to Conrad Bessant [(c.bessant@qmul.ac.uk)](mailto:c.bessant@qmul.ac.uk) with your CV, **including "PDRA" in the subject line**.
 
