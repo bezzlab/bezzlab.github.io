@@ -12,19 +12,19 @@ We are recruiting graduates who are interested in the interface between data sci
 
 *As an MSc student:* Our [MSc Bioinformatics programme](https://qmul.ac.uk/msc-bioinfo) is one of the most popular in Europe. Specifically designed for bioscience graduates. Apply now for late September start.
 
-Sadly, we **do not** have the capacity to host internships or work experience placements.
+Sadly, we **do not** have the capacity to host internships or work experience placements at this time.
 
 #### Selected journal articles: Check these out for a flavour of our research
 
-Branson, N., Cutillas, P.R., Bessant, C., 2023 [Comparison of multiple modalities for drug response prediction with learning curves using neural networks and XGBoost](https://doi.org/10.1093/bioadv/vbad190). *Bioinformatics Advances*.
+Branson, N., Cutillas, P.R., Bessant, C., (2023). [Comparison of multiple modalities for drug response prediction with learning curves using neural networks and XGBoost](https://doi.org/10.1093/bioadv/vbad190). *Bioinformatics Advances*.
 
-Saihi, H., Bessant, C. and Alazawi, W., 2023 [Automated and reproducible cell identification in mass cytometry using neural networks](https://doi.org/10.1093/bib/bbad392). *Briefings in Bioinformatics*.
+Saihi, H., Bessant, C. and Alazawi, W., (2023). [Automated and reproducible cell identification in mass cytometry using neural networks](https://doi.org/10.1093/bib/bbad392). *Briefings in Bioinformatics*.
 
-Byrom, B., Bessant, C., Smeraldi, F., Abdollahyan, M., Bridges, Y., Chowdhury, M. and Tahsin, A., 2023. [Deriving meaningful aspects of health related to physical activity in chronic disease: concept elicitation using machine-learning-assisted coding of online patient conversations](https://www.valueinhealthjournal.com/article/S1098-3015(23)00050-5/fulltext). *Value in Health*.
+Byrom, B., Bessant, C., Smeraldi, F., Abdollahyan, M., Bridges, Y., Chowdhury, M. and Tahsin, A., (2023). [Deriving meaningful aspects of health related to physical activity in chronic disease: concept elicitation using machine-learning-assisted coding of online patient conversations](https://www.valueinhealthjournal.com/article/S1098-3015(23)00050-5/fulltext). *Value in Health*.
 
-Waller, K.J., Saihi, H., Li, W., Brindley, J.H., De Jong. A., Syn, W., Bessant, C., Alazawi, W., 2023 [Single-cell phenotypes of peripheral blood immune cells in early and late stages of non-alcoholic fatty liver disease](https://www.e-cmh.org/journal/view.php?doi=10.3350/cmh.2022.0205). *Clinical and Molecular Hepatology*.
+Waller, K.J., Saihi, H., Li, W., Brindley, J.H., De Jong. A., Syn, W., Bessant, C., Alazawi, W., (2023). [Single-cell phenotypes of peripheral blood immune cells in early and late stages of non-alcoholic fatty liver disease](https://www.e-cmh.org/journal/view.php?doi=10.3350/cmh.2022.0205). *Clinical and Molecular Hepatology*.
 
-Gomez, E.A., Colas, R.A., Souza, P.R., Hands, R., Lewis, M.J., Bessant, C., Pitzalis, C. and Dalli, J., 2020. [Blood pro-resolving mediators are linked with synovial pathology and are predictive of DMARD responsiveness in rheumatoid arthritis](https://www.nature.com/articles/s41467-020-19176-z). *Nature Communications*, 11(1), pp.1-13.
+Gomez, E.A., Colas, R.A., Souza, P.R., Hands, R., Lewis, M.J., Bessant, C., Pitzalis, C. and Dalli, J., (2020). [Blood pro-resolving mediators are linked with synovial pathology and are predictive of DMARD responsiveness in rheumatoid arthritis](https://www.nature.com/articles/s41467-020-19176-z). *Nature Communications*, 11(1), pp.1-13.
 
 Gadaleta, E., Fourgoux, P., Pirró, S., Thorn, G.J., Nelan, R., Ironside, A., Rajeeve, V., Cutillas, P.R., Lobley, A.E., Wang, J., Gea, E., Ross-Adams, H., Bessant, C., Lemoine, N.R., Jones, L.J., & Chelala, C. (2020). [Characterization of four subtypes in morphologically normal tissue excised proximal and distal to breast cancer](https://doi.org/10.1038/s41523-020-00182-9). *npj Breast Cancer*, 6, article number: 38.
 
