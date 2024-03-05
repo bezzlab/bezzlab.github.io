@@ -16,7 +16,7 @@ Sadly, we **do not** have the capacity to host internships or work experience pl
 
 #### Selected journal articles: Check these out for a flavour of our research
 
-Branson, N., Cutillas, P.R., Bessant, C., (2023). [Comparison of multiple modalities for drug response prediction with learning curves using neural networks and XGBoost](https://doi.org/10.1093/bioadv/vbad190). *Bioinformatics Advances*.
+Branson, N., Cutillas, P.R., Bessant, C., (2024). [Comparison of multiple modalities for drug response prediction with learning curves using neural networks and XGBoost](https://doi.org/10.1093/bioadv/vbad190). *Bioinformatics Advances*.
 
 Saihi, H., Bessant, C. and Alazawi, W., (2023). [Automated and reproducible cell identification in mass cytometry using neural networks](https://doi.org/10.1093/bib/bbad392). *Briefings in Bioinformatics*.
 
