@@ -1,6 +1,6 @@
 #### About the Bessant Lab
 
-We devise and implement novel data science and AI solutions for biomedical research, particularly when proteomics data is involved. The lab is based in the [Digital Environment Research Institute](https://www.qmul.ac.uk/deri/) at [Queen Mary](http://www.qmul.ac.uk/), [University of London](https://london.ac.uk/) and led by [Prof Conrad Bessant](https://www.linkedin.com/in/conradbessant). We are also affiliated with Queen Mary's [School of Biological and Chemical Sciences](http://www.sbcs.qmul.ac.uk/) and the [The Alan Turing Institute](https://www.turing.ac.uk/).
+We devise and implement novel data science and AI solutions for biomedical research. The lab is based in the [Digital Environment Research Institute](https://www.qmul.ac.uk/deri/) at [Queen Mary](http://www.qmul.ac.uk/), [University of London](https://london.ac.uk/) and led by [Prof Conrad Bessant](https://www.linkedin.com/in/conradbessant). We are also affiliated with Queen Mary's [School of Biological and Chemical Sciences](http://www.sbcs.qmul.ac.uk/) and the [The Alan Turing Institute](https://www.turing.ac.uk/).
 
 #### Join us
 
