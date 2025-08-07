@@ -16,9 +16,9 @@ Sadly, we **do not** have the capacity to host internships or work experience pl
 
 #### Selected journal articles: Check these out for a flavour of our research
 
-Occhetta, M., Myatt, A., Mudaliar, M. A. V. & Bessant, C. [MORGaN: Self-supervised multi-relational graph learning for druggable gene discovery] *Coming soon*.
+Occhetta, M., Myatt, A., Mudaliar, M. A. V. & Bessant, C. MORGaN: Self-supervised multi-relational graph learning for druggable gene discovery. *Coming soon*.
 
-Branson, N., Cutillas, P. R. & Bessant, C. (2025). [Understanding the sources of performance in deep drug response models reveals insights and improvements](https://doi.org/10.1093/bioinformatics/btaf255) *Bioinformatics*.
+Branson, N., Cutillas, P. R. & Bessant, C. (2025). [Understanding the sources of performance in deep drug response models reveals insights and improvements](https://doi.org/10.1093/bioinformatics/btaf255). *Bioinformatics*.
 
 Branson, N., Cutillas, P.R. & Bessant, C. (2024). [Comparison of multiple modalities for drug response prediction with learning curves using neural networks and XGBoost](https://doi.org/10.1093/bioadv/vbad190). *Bioinformatics Advances*.
 
